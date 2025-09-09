@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Angry cat website",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Catsources",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nshowing picture"
+    "text": "Here are some links to other angry cats that can soothe your soul."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This site is all about angry cats. And how cute they are."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Angry cat website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nshowing picture"
   }
 ]
