@@ -1,5 +1,5 @@
 ---
-title: "collab-website"
+title: "Angry cat website"
 ---
 
 This is a Quarto website.
